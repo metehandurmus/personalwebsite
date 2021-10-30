@@ -71,7 +71,6 @@ p {
 
 #message {
     max-width: 1024px;
-    width: 90%;
     margin: 0 auto;
     padding: 3rem;
     border-radius: 5px;
@@ -168,3 +167,7 @@ hr {
 	color: white;
 	background: #4CAF50;
 }
+
+@media only screen and (max-width: 480px) {
+	.mobile-none {display: none;}
+  }
