@@ -2,6 +2,8 @@
     $saat = date("H");
     if ($saat >= "18"){
         include 'main.dark.min.html';
+    } else if ($saat <= "7"){
+        include 'main.dark.min.html';
     } else {
         include 'main.min.html';
     }
