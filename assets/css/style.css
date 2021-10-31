@@ -229,3 +229,27 @@ hr {
         margin-top: 1rem;
     }
 }
+/* dark tema */
+body.dark {
+    background: #212830;
+    color: #dfebff;
+}
+
+body.dark input[type=email] {
+    background: #171d24;
+    border: none !important;
+    outline: none;
+    color: white;
+}
+
+body.dark .btn {
+    border: none !important;
+}
+
+body.dark .btn-w-full {
+    font-size: 14px;
+}
+
+body.dark hr {
+    border-color: #11161c;
+}
