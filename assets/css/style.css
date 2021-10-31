@@ -158,6 +158,7 @@ hr {
     justify-content: space-between;
     flex-wrap: wrap;
     margin: 0 -7px;
+    align-items: baseline;
 }
 .col {
     padding: 0 7px;
@@ -185,6 +186,7 @@ hr {
 .btn-w-full {
     width: 100% !important;
     font-size: 15px;
+    margin-top: 1rem;
 }
 .blue {
     background: linear-gradient(45deg, #0052b9, #187fff);
