@@ -184,6 +184,7 @@ hr {
 }
 .btn-w-full {
     width: 100% !important;
+    font-size: 15px;
 }
 .blue {
     background: linear-gradient(45deg, #0052b9, #187fff);
