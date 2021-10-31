@@ -119,6 +119,10 @@ hr {
 	text-align: center;
 }
 
+.btn-w-full {
+	width: 100% !important;
+}
+
 .blue {
     background: #187fff;
 	color: white;
