@@ -3,7 +3,7 @@
     if ($saat > 18)
         include 'main.dark.min.html';
     else
-        include 'main.dark.min.html';
+        include 'main.min.html';
 
     if($_POST)
         include 'vt_mailekle.php';
